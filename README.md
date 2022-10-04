@@ -28,11 +28,11 @@ This open-source project is about creating a collection of materials that make m
 
 -  All linked to external resources must be openly availlable for free
 
-## Code-Based Issues
+### Code-Based Issues
 - [ ] Must run in an interactive python notebook (.ipynb)
 - [ ] OR: if no .ipynb:
     - [ ] full code (including setup) must be provided
     - [ ] expected output must be provided
 
-## Documentation-Issues
+### Documentation-Issues
 - (nothing specific yet...)
