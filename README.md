@@ -25,7 +25,7 @@ This open-source project is about creating a collection of materials that make m
 ### All Types of Issues
 - Where work draws direct imspiration from another work - it must be fully referenced - using the IEEE standard
     - [ ] Help on IEEE to follow soon...
-
+          [IEEE Referencing Style]
 -  All linked to external resources must be openly availlable for free
 
 ### Code-Based Issues
