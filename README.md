@@ -25,7 +25,7 @@ This open-source project is about creating a collection of materials that make m
 ### All Types of Issues
 - Where work draws direct imspiration from another work - it must be fully referenced - using the IEEE standard
     - [ ] Help on IEEE to follow soon...
-          [IEEE Referencing Style]
+          [IEEE Referencing Style](https://github.com/Ishika414/practical-introduction-to-machine-learning/blob/main/IEEE%20STYLE%20REFERENCING.md)
 -  All linked to external resources must be openly availlable for free
 
 ### Code-Based Issues
