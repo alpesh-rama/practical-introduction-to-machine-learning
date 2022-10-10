@@ -10,7 +10,7 @@ This open-source project is about creating a collection of materials that make m
     - [ ] understand enough ML concepts to practically use it
     - [ ] practically get started with ML
 
-- [ ] Inprove accessibility to the topic:
+- [ ] Improve accessibility to the topic:
     - [ ] Form a comprehensive basis for an open-source e-book
 
 ## 🤝 Contribution
@@ -23,10 +23,10 @@ This open-source project is about creating a collection of materials that make m
 
 ## 📋Quality
 ### All Types of Issues
-- Where work draws direct imspiration from another work - it must be fully referenced - using the IEEE standard
+- Where work draws direct inspiration from another work - it must be fully referenced - using the IEEE standard
     - [ ] Help on IEEE to follow soon...
           [IEEE Referencing Style](https://github.com/Ishika414/practical-introduction-to-machine-learning/blob/main/IEEE%20STYLE%20REFERENCING.md)
--  All linked to external resources must be openly availlable for free
+-  All linked to external resources must be openly available for free
 
 ### Code-Based Issues
 - [ ] Must run in an interactive python notebook (.ipynb)
